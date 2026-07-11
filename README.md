@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thusharpoojary/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0412-fizz-buzz](https://github.com/Thusharpoojary/leetcode/tree/master/0412-fizz-buzz) |
 ## String Matching
 |  |
 | ------- |
@@ -22,4 +23,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Thusharpoojary/leetcode/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Thusharpoojary/leetcode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Thusharpoojary/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

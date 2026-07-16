@@ -37,6 +37,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thusharpoojary/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Thusharpoojary/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0485-max-consecutive-ones](https://github.com/Thusharpoojary/leetcode/tree/master/0485-max-consecutive-ones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Thusharpoojary/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |

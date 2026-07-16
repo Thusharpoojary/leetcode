@@ -38,6 +38,7 @@
 | [0053-maximum-subarray](https://github.com/Thusharpoojary/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Thusharpoojary/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/Thusharpoojary/leetcode/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/Thusharpoojary/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Thusharpoojary/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
 |  |
@@ -51,5 +52,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Thusharpoojary/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Thusharpoojary/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Thusharpoojary/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Thusharpoojary/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

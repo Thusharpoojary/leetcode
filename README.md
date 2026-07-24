@@ -29,6 +29,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Thusharpoojary/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Thusharpoojary/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Thusharpoojary/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0707-design-linked-list](https://github.com/Thusharpoojary/leetcode/tree/master/0707-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/Thusharpoojary/leetcode/tree/master/0542-01-matrix) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Thusharpoojary/leetcode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

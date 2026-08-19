@@ -45,6 +45,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thusharpoojary/leetcode/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/Thusharpoojary/leetcode/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Thusharpoojary/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0485-max-consecutive-ones](https://github.com/Thusharpoojary/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Thusharpoojary/leetcode/tree/master/0542-01-matrix) |
@@ -89,4 +90,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Thusharpoojary/leetcode/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Thusharpoojary/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Thusharpoojary/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

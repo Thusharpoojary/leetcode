@@ -36,6 +36,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Thusharpoojary/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Thusharpoojary/leetcode/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Thusharpoojary/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Thusharpoojary/leetcode/tree/master/0509-fibonacci-number) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thusharpoojary/leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Thusharpoojary/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Thusharpoojary/leetcode/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Thusharpoojary/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/Thusharpoojary/leetcode/tree/master/0509-fibonacci-number) |
@@ -111,4 +113,8 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Thusharpoojary/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Thusharpoojary/leetcode/tree/master/0509-fibonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Thusharpoojary/leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

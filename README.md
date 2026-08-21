@@ -53,6 +53,7 @@
 | [0198-house-robber](https://github.com/Thusharpoojary/leetcode/tree/master/0198-house-robber) |
 | [0485-max-consecutive-ones](https://github.com/Thusharpoojary/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Thusharpoojary/leetcode/tree/master/0542-01-matrix) |
+| [0704-binary-search](https://github.com/Thusharpoojary/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Thusharpoojary/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Thusharpoojary/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Divide and Conquer
@@ -77,6 +78,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/Thusharpoojary/leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/Thusharpoojary/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |

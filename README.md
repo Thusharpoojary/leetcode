@@ -23,6 +23,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Thusharpoojary/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Thusharpoojary/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Thusharpoojary/leetcode/tree/master/0169-majority-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Thusharpoojary/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
@@ -52,6 +53,7 @@
 | [0053-maximum-subarray](https://github.com/Thusharpoojary/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Thusharpoojary/leetcode/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Thusharpoojary/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/Thusharpoojary/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Thusharpoojary/leetcode/tree/master/0198-house-robber) |
 | [0485-max-consecutive-ones](https://github.com/Thusharpoojary/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/Thusharpoojary/leetcode/tree/master/0542-01-matrix) |
@@ -63,6 +65,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Thusharpoojary/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Thusharpoojary/leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Thusharpoojary/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,4 +129,16 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Thusharpoojary/leetcode/tree/master/0062-unique-paths) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Thusharpoojary/leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Thusharpoojary/leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Thusharpoojary/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

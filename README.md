@@ -14,6 +14,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thusharpoojary/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Thusharpoojary/leetcode/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/Thusharpoojary/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## String Matching
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0141-linked-list-cycle](https://github.com/Thusharpoojary/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Thusharpoojary/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Thusharpoojary/leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Thusharpoojary/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Thusharpoojary/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
@@ -133,12 +135,22 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Thusharpoojary/leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Thusharpoojary/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Thusharpoojary/leetcode/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/Thusharpoojary/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Thusharpoojary/leetcode/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Thusharpoojary/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Thusharpoojary/leetcode/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->

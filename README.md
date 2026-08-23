@@ -22,6 +22,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Thusharpoojary/leetcode/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/Thusharpoojary/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Thusharpoojary/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Thusharpoojary/leetcode/tree/master/0169-majority-element) |
@@ -100,6 +101,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/Thusharpoojary/leetcode/tree/master/0133-clone-graph) |
 | [0542-01-matrix](https://github.com/Thusharpoojary/leetcode/tree/master/0542-01-matrix) |
 ## Matrix
 |  |
@@ -168,4 +170,12 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Thusharpoojary/leetcode/tree/master/0494-target-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Thusharpoojary/leetcode/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/Thusharpoojary/leetcode/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->

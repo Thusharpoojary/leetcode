@@ -180,4 +180,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Thusharpoojary/leetcode/tree/master/0133-clone-graph) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Thusharpoojary/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
